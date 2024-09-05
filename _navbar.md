@@ -25,6 +25,12 @@
   * [读写分离 sync.Map](docs%2FGo%2F%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB%20sync.Map.md)
   * [读写锁的实现及底层原理](docs%2FGo%2F%E8%AF%BB%E5%86%99%E9%94%81%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8F%8A%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86.md)
   * [长连接和短连接的学习](docs%2FGo%2F%E9%95%BF%E8%BF%9E%E6%8E%A5%E5%92%8C%E7%9F%AD%E8%BF%9E%E6%8E%A5%E7%9A%84%E5%AD%A6%E4%B9%A0.md)
+* Kafka
+  * [Kafka事务](docs%2FKafka%2FKafka%E4%BA%8B%E5%8A%A1.md)
+  * [为什么要使用消息队列 ](docs%2FKafka%2F%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E4%BD%BF%E7%94%A8%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%20.md)
+  * [如何保证高可用](docs%2FKafka%2F%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E9%AB%98%E5%8F%AF%E7%94%A8.md)
+  * [架构原理及存储机制](docs%2FKafka%2F%E6%9E%B6%E6%9E%84%E5%8E%9F%E7%90%86%E5%8F%8A%E5%AD%98%E5%82%A8%E6%9C%BA%E5%88%B6.md)
+  * [消费者策略、Rebalance机制、Offset存储机制](docs%2FKafka%2F%E6%B6%88%E8%B4%B9%E8%80%85%E7%AD%96%E7%95%A5%E3%80%81Rebalance%E6%9C%BA%E5%88%B6%E3%80%81Offset%E5%AD%98%E5%82%A8%E6%9C%BA%E5%88%B6.md)
 * Mysql
   * [binlog、redo log和undo log](docs%2FMysql%2Fbinlog%E3%80%81redo%20log%E5%92%8Cundo%20log.md)
   * [MVVC原理](docs%2FMysql%2FMVVC%E5%8E%9F%E7%90%86.md)
