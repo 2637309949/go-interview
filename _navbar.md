@@ -35,6 +35,8 @@
   * [如何保证高可用](docs%2FKafka%2F%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E9%AB%98%E5%8F%AF%E7%94%A8.md)
   * [架构原理及存储机制](docs%2FKafka%2F%E6%9E%B6%E6%9E%84%E5%8E%9F%E7%90%86%E5%8F%8A%E5%AD%98%E5%82%A8%E6%9C%BA%E5%88%B6.md)
   * [消费者策略、Rebalance机制、Offset存储机制](docs%2FKafka%2F%E6%B6%88%E8%B4%B9%E8%80%85%E7%AD%96%E7%95%A5%E3%80%81Rebalance%E6%9C%BA%E5%88%B6%E3%80%81Offset%E5%AD%98%E5%82%A8%E6%9C%BA%E5%88%B6.md)
+* Leetcode
+  * [接雨水](docs%2FLeetcode%2F%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
 * Mysql
   * [binlog、redo log和undo log](docs%2FMysql%2Fbinlog%E3%80%81redo%20log%E5%92%8Cundo%20log.md)
   * [b树与b+树的区别](docs%2FMysql%2Fb%E6%A0%91%E4%B8%8Eb%2B%E6%A0%91%E7%9A%84%E5%8C%BA%E5%88%AB.md)
@@ -115,6 +117,7 @@
   * [数据结构 Stream](docs%2FRedis%2F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%A0Stream.md)
   * [缓存穿透、击穿、雪崩、预热、更新、降级](docs%2FRedis%2F%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%E3%80%81%E5%87%BB%E7%A9%BF%E3%80%81%E9%9B%AA%E5%B4%A9%E3%80%81%E9%A2%84%E7%83%AD%E3%80%81%E6%9B%B4%E6%96%B0%E3%80%81%E9%99%8D%E7%BA%A7.md)
 * Theory
+  * [Ctrl C发生了什么](docs%2FTheory%2FCtrl%20C%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88.md)
   * [dns是怎么解析的](docs%2FTheory%2Fdns%E6%98%AF%E6%80%8E%E4%B9%88%E8%A7%A3%E6%9E%90%E7%9A%84.md)
   * [hash冲突](docs%2FTheory%2Fhash%E5%86%B2%E7%AA%81.md)
   * [kill底层发生了什么](docs%2FTheory%2Fkill%E5%BA%95%E5%B1%82%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88.md)
@@ -135,8 +138,10 @@
   * [常见的排序算法](docs%2FTheory%2F%E5%B8%B8%E8%A7%81%E7%9A%84%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
   * [时间和空间复杂度](docs%2FTheory%2F%E6%97%B6%E9%97%B4%E5%92%8C%E7%A9%BA%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.md)
   * [死锁概念，死锁产生的四个必要条件，如何避免和预防死锁](docs%2FTheory%2F%E6%AD%BB%E9%94%81%E6%A6%82%E5%BF%B5%EF%BC%8C%E6%AD%BB%E9%94%81%E4%BA%A7%E7%94%9F%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6%EF%BC%8C%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%92%8C%E9%A2%84%E9%98%B2%E6%AD%BB%E9%94%81.md)
+  * [物理内存、虚拟内存和共享内存](docs%2FTheory%2F%E7%89%A9%E7%90%86%E5%86%85%E5%AD%98%E3%80%81%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98%E5%92%8C%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98.md)
   * [线程间有哪些通信方式](docs%2FTheory%2F%E7%BA%BF%E7%A8%8B%E9%97%B4%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F.md)
   * [网络io模型](docs%2FTheory%2F%E7%BD%91%E7%BB%9Cio%E6%A8%A1%E5%9E%8B.md)
+  * [自旋锁](docs%2FTheory%2F%E8%87%AA%E6%97%8B%E9%94%81.md)
   * [进程和线程之间有什么区别](docs%2FTheory%2F%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B%E4%B9%8B%E9%97%B4%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB.md)
   * [进程间通信方式](docs%2FTheory%2F%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F.md)
   * [通过分析系统，定位服务器问题](docs%2FTheory%2F%E9%80%9A%E8%BF%87%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%AE%9A%E4%BD%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%97%AE%E9%A2%98.md)
