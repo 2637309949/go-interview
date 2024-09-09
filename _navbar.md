@@ -35,8 +35,6 @@
   * [如何保证高可用](docs%2FKafka%2F%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E9%AB%98%E5%8F%AF%E7%94%A8.md)
   * [架构原理及存储机制](docs%2FKafka%2F%E6%9E%B6%E6%9E%84%E5%8E%9F%E7%90%86%E5%8F%8A%E5%AD%98%E5%82%A8%E6%9C%BA%E5%88%B6.md)
   * [消费者策略、Rebalance机制、Offset存储机制](docs%2FKafka%2F%E6%B6%88%E8%B4%B9%E8%80%85%E7%AD%96%E7%95%A5%E3%80%81Rebalance%E6%9C%BA%E5%88%B6%E3%80%81Offset%E5%AD%98%E5%82%A8%E6%9C%BA%E5%88%B6.md)
-* Leetcode
-  * [接雨水](docs%2FLeetcode%2F%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
 * Mysql
   * [binlog、redo log和undo log](docs%2FMysql%2Fbinlog%E3%80%81redo%20log%E5%92%8Cundo%20log.md)
   * [b树与b+树的区别](docs%2FMysql%2Fb%E6%A0%91%E4%B8%8Eb%2B%E6%A0%91%E7%9A%84%E5%8C%BA%E5%88%AB.md)
@@ -146,6 +144,8 @@
   * [进程间通信方式](docs%2FTheory%2F%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F.md)
   * [通过分析系统，定位服务器问题](docs%2FTheory%2F%E9%80%9A%E8%BF%87%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%AE%9A%E4%BD%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%97%AE%E9%A2%98.md)
   * [逻辑地址和物理地址的转化](docs%2FTheory%2F%E9%80%BB%E8%BE%91%E5%9C%B0%E5%9D%80%E5%92%8C%E7%89%A9%E7%90%86%E5%9C%B0%E5%9D%80%E7%9A%84%E8%BD%AC%E5%8C%96.md)
+* Leetcode
+  * [接雨水](docs%2FLeetcode%2F%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
 * Case
   * [10亿个数中找到最大的一个数以及最大的K个数](docs%2FCase%2F10%E4%BA%BF%E4%B8%AA%E6%95%B0%E4%B8%AD%E6%89%BE%E5%88%B0%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E4%B8%AA%E6%95%B0%E4%BB%A5%E5%8F%8A%E6%9C%80%E5%A4%A7%E7%9A%84K%E4%B8%AA%E6%95%B0.md)
   * [ES监听binlog](docs%2FCase%2FES%E7%9B%91%E5%90%ACbinlog.md)
