@@ -30,14 +30,6 @@
   * [读写分离 sync.Map](docs%2FGo%2F%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB%20sync.Map.md)
   * [读写锁的实现及底层原理](docs%2FGo%2F%E8%AF%BB%E5%86%99%E9%94%81%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8F%8A%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86.md)
   * [长连接和短连接的学习](docs%2FGo%2F%E9%95%BF%E8%BF%9E%E6%8E%A5%E5%92%8C%E7%9F%AD%E8%BF%9E%E6%8E%A5%E7%9A%84%E5%AD%A6%E4%B9%A0.md)
-* Algorithm
-  * [二叉树层次遍历](docs%2FAlgorithm%2F%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.md)
-  * [二叉树锯齿遍历](docs%2FAlgorithm%2F%E4%BA%8C%E5%8F%89%E6%A0%91%E9%94%AF%E9%BD%BF%E9%81%8D%E5%8E%86.md)
-  * [反转合并有序链表](docs%2FAlgorithm%2F%E5%8F%8D%E8%BD%AC%E5%90%88%E5%B9%B6%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
-  * [图相关的算法题](docs%2FAlgorithm%2F%E5%9B%BE%E7%9B%B8%E5%85%B3%E7%9A%84%E7%AE%97%E6%B3%95%E9%A2%98.md)
-  * [找出数组中最小的k个数](docs%2FAlgorithm%2F%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)
-  * [接雨水](docs%2FAlgorithm%2F%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
-  * [树的遍历](docs%2FAlgorithm%2F%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86.md)
 * Kafka
   * [Kafka事务](docs%2FKafka%2FKafka%E4%BA%8B%E5%8A%A1.md)
   * [Kafka高效率原因](docs%2FKafka%2FKafka%E9%AB%98%E6%95%88%E7%8E%87%E5%8E%9F%E5%9B%A0.md)
@@ -186,6 +178,14 @@
   * [通过分析系统，定位服务器问题](docs%2FTheory%2F%E9%80%9A%E8%BF%87%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%AE%9A%E4%BD%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%97%AE%E9%A2%98.md)
   * [逻辑地址和物理地址的转化](docs%2FTheory%2F%E9%80%BB%E8%BE%91%E5%9C%B0%E5%9D%80%E5%92%8C%E7%89%A9%E7%90%86%E5%9C%B0%E5%9D%80%E7%9A%84%E8%BD%AC%E5%8C%96.md)
   * [雪花算法](docs%2FTheory%2F%E9%9B%AA%E8%8A%B1%E7%AE%97%E6%B3%95.md)
+* Algorithm
+  * [二叉树层次遍历](docs%2FAlgorithm%2F%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.md)
+  * [二叉树锯齿遍历](docs%2FAlgorithm%2F%E4%BA%8C%E5%8F%89%E6%A0%91%E9%94%AF%E9%BD%BF%E9%81%8D%E5%8E%86.md)
+  * [反转合并有序链表](docs%2FAlgorithm%2F%E5%8F%8D%E8%BD%AC%E5%90%88%E5%B9%B6%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+  * [图相关的算法题](docs%2FAlgorithm%2F%E5%9B%BE%E7%9B%B8%E5%85%B3%E7%9A%84%E7%AE%97%E6%B3%95%E9%A2%98.md)
+  * [找出数组中最小的k个数](docs%2FAlgorithm%2F%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)
+  * [接雨水](docs%2FAlgorithm%2F%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
+  * [树的遍历](docs%2FAlgorithm%2F%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86.md)
 * Case
   * [10亿个数中找到最大的一个数以及最大的K个数](docs%2FCase%2F10%E4%BA%BF%E4%B8%AA%E6%95%B0%E4%B8%AD%E6%89%BE%E5%88%B0%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E4%B8%AA%E6%95%B0%E4%BB%A5%E5%8F%8A%E6%9C%80%E5%A4%A7%E7%9A%84K%E4%B8%AA%E6%95%B0.md)
   * [ES监听binlog](docs%2FCase%2FES%E7%9B%91%E5%90%ACbinlog.md)
